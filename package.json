@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-api",
+  "name": "mangbotz-api",
   "version": "1.0.0",
-  "description": "res api website",
+  "description": "rest api website",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,14 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LoliKillers/Arnz-Api.git"
+    "url": "git+ssh://git@github.com/MangDTech/api1.git"
   },
-  "author": "LolKill & Zee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zeeneofc/"
-  },
-  "homepage": "https://github.com/zeeoneofc",
+  "author": "MangBotz",
+  "license": "ISC",  
   "dependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
