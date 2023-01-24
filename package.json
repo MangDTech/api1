@@ -23,7 +23,6 @@
     "url": "https://github.com/MangDTech/api1/issues"
   },
   "dependencies": {
-    "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
     "base-64": "^1.0.0",
     "base32": "0.0.6",
