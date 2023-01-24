@@ -11,8 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/MangDTech/api1.git"
   },
-  "author": "MangBotz",
-  "license": "ISC",  
+  "keywords": [
+    "simple",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "MangDTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MangDTech/api1/issues"
+  },
   "dependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
@@ -37,4 +46,5 @@
     "urlencode": "^1.1.0",    
     "ytpl": "^2.0.5"
   }, 
+"homepage": "https://github.com/MangDTech/api1#readme"
 }
